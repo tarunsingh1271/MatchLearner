@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    background-color: aqua;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+
+#login{
+    margin-right:5%;
+}
+
+input {
+    cursor: pointer;
+}

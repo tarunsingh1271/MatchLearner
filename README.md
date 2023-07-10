@@ -1,2 +1,2 @@
-# MatchLearner
-This web app will help an individual to learn and gain new languages.
+# matchLearners
+Projet dont l'objectif est de mettre en relation des particuliers pour qu'ils échangent leurs savoirs.
